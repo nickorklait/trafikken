@@ -1,0 +1,41 @@
+{
+  "brand": {
+    "name": "Trafikken",
+    "tagline": "Oslo-området hver morgen",
+    "hashtags": ["#trafikk", "#oslo", "#bærum", "#asker", "#rushtid", "#pendler", "#e18", "#e6", "#ring3"]
+  },
+  "points": [
+    { "id": "00378V444233", "name": "E18 Slependen" },
+    { "id": "33438V444232", "name": "E18 Høvik" },
+    { "id": "52231V625294", "name": "E18 Frognerstranda" },
+    { "id": "24764V625406", "name": "Ring 3 Smestad" },
+    { "id": "31290V625405", "name": "Ring 3 Grefsen" },
+    { "id": "13447V625213", "name": "E6 Manglerud" },
+    { "id": "79854V625215", "name": "E6 Karihaugen" },
+    { "id": "66410V625367", "name": "Rv 4 Ammerud" }
+  ],
+  "cabin": [
+    { "id": "96571V444221", "name": "E6 nordover", "where": "Jessheim", "out": "Hamar", "home": "Oslo" },
+    { "id": "17291V181259", "name": "E18 mot Drammen", "where": "Lier", "out": "Drammen", "home": "Oslo" },
+    { "id": "65271V443150", "name": "E6 sørover", "where": "Vestby", "out": "Moss", "home": "Oslo" }
+  ],
+  "weather": { "name": "Oslo", "lat": 59.9139, "lon": 10.7522 },
+  "source": {
+    "traffic": "Trafikkdata fra Statens vegvesen (NLOD)",
+    "met": "Værvarsel fra MET Norge (CC BY 4.0)",
+    "short": "Kilde: Statens vegvesen og MET Norge",
+    "userAgent": "trafikken-poc/0.1 (contact: nick.rios.haugen@orkla.no)"
+  },
+  "colors": {
+    "surface": "#13161d",
+    "panel": "#1d222c",
+    "line": "#2e3542",
+    "text": "#ffffff",
+    "muted": "#a3adbf",
+    "accent": "#ffcc33",
+    "up": "#ff7a59",
+    "down": "#4cc38a",
+    "normal": "#5b6578"
+  },
+  "sponsor": { "label": "Sponset av", "text": "Din bedrift her" }
+}
