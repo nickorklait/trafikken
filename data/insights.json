@@ -3,9 +3,23 @@
     {
       "date": "2026-10-29",
       "count": 0
+    },
+    {
+      "date": "2026-10-30",
+      "count": 2
     }
   ],
   "media": {},
   "username": "trafikken.oslo",
-  "updatedAt": "2026-10-29T11:03:38.422Z"
+  "updatedAt": "2026-10-30T05:51:31.418Z",
+  "profile": {
+    "name": "Trafikken Oslo",
+    "bio": 140,
+    "picture": true,
+    "website": false,
+    "follows": 0,
+    "followers": 2,
+    "media": 0,
+    "checkedAt": "2026-10-30T05:51:31.418Z"
+  }
 }
