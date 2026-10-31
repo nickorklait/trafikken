@@ -7,16 +7,20 @@
     {
       "date": "2026-10-30",
       "count": 3
+    },
+    {
+      "date": "2026-10-31",
+      "count": 5
     }
   ],
   "media": {
     "2026-10-30-feed": {
       "mediaId": "18199361410384617",
       "kind": "feed",
-      "fetchedAt": "2026-10-30T13:09:04.342Z",
+      "fetchedAt": "2026-10-31T05:51:18.979Z",
       "publishedAt": "2026-10-30T06:11:54.213Z",
       "permalink": "https://www.instagram.com/p/DfG6LGBm4fQ/",
-      "reach": 1,
+      "reach": 2,
       "likes": 0,
       "comments": 0,
       "saved": 0,
@@ -25,7 +29,7 @@
     "2026-10-30-story": {
       "mediaId": "18117013448039492",
       "kind": "story",
-      "fetchedAt": "2026-10-30T13:09:05.913Z",
+      "fetchedAt": "2026-10-31T05:51:19.318Z",
       "publishedAt": "2026-10-30T06:12:26.961Z",
       "permalink": null,
       "reach": 0,
@@ -34,15 +38,15 @@
     }
   },
   "username": "trafikken.oslo",
-  "updatedAt": "2026-10-30T13:09:05.913Z",
+  "updatedAt": "2026-10-31T05:51:19.318Z",
   "profile": {
     "name": "Trafikken Oslo",
     "bio": 140,
     "picture": true,
     "website": false,
-    "follows": 5,
-    "followers": 3,
+    "follows": 6,
+    "followers": 5,
     "media": 1,
-    "checkedAt": "2026-10-30T13:09:04.087Z"
+    "checkedAt": "2026-10-31T05:51:18.767Z"
   }
 }
