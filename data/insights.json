@@ -21,7 +21,7 @@
     "2026-10-30-feed": {
       "mediaId": "18199361410384617",
       "kind": "feed",
-      "fetchedAt": "2026-11-01T05:51:27.867Z",
+      "fetchedAt": "2026-11-01T06:12:09.772Z",
       "publishedAt": "2026-10-30T06:11:54.213Z",
       "permalink": "https://www.instagram.com/p/DfG6LGBm4fQ/",
       "reach": 2,
@@ -43,7 +43,7 @@
     "2026-10-31-feed": {
       "mediaId": "18131440960701153",
       "kind": "feed",
-      "fetchedAt": "2026-11-01T05:51:28.177Z",
+      "fetchedAt": "2026-11-01T06:12:09.997Z",
       "publishedAt": "2026-10-31T06:11:42.928Z",
       "permalink": "https://www.instagram.com/p/DfJe803jswD/",
       "reach": 1,
@@ -61,10 +61,32 @@
       "reach": 0,
       "replies": 0,
       "shares": 0
+    },
+    "2026-11-01-feed": {
+      "mediaId": "18093160190203579",
+      "kind": "feed",
+      "fetchedAt": "2026-11-01T06:12:10.247Z",
+      "publishedAt": "2026-11-01T06:11:42.538Z",
+      "permalink": "https://www.instagram.com/p/DfMDvtulDEu/",
+      "reach": 0,
+      "likes": 0,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0
+    },
+    "2026-11-01-story": {
+      "mediaId": "18142181428625646",
+      "kind": "story",
+      "fetchedAt": "2026-11-01T06:12:10.466Z",
+      "publishedAt": "2026-11-01T06:12:08.495Z",
+      "permalink": null,
+      "reach": 0,
+      "replies": 0,
+      "shares": 0
     }
   },
   "username": "trafikken.oslo",
-  "updatedAt": "2026-11-01T05:51:28.490Z",
+  "updatedAt": "2026-11-01T06:12:10.466Z",
   "profile": {
     "name": "Trafikken Oslo",
     "bio": 140,
@@ -72,7 +94,7 @@
     "website": false,
     "follows": 6,
     "followers": 5,
-    "media": 2,
-    "checkedAt": "2026-11-01T05:51:27.350Z"
+    "media": 3,
+    "checkedAt": "2026-11-01T06:12:09.305Z"
   }
 }
