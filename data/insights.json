@@ -25,7 +25,7 @@
     "2026-10-30-feed": {
       "mediaId": "18199361410384617",
       "kind": "feed",
-      "fetchedAt": "2026-11-02T05:51:18.337Z",
+      "fetchedAt": "2026-11-02T16:14:09.454Z",
       "publishedAt": "2026-10-30T06:11:54.213Z",
       "permalink": "https://www.instagram.com/p/DfG6LGBm4fQ/",
       "reach": 2,
@@ -47,7 +47,7 @@
     "2026-10-31-feed": {
       "mediaId": "18131440960701153",
       "kind": "feed",
-      "fetchedAt": "2026-11-02T05:51:18.541Z",
+      "fetchedAt": "2026-11-02T16:14:09.917Z",
       "publishedAt": "2026-10-31T06:11:42.928Z",
       "permalink": "https://www.instagram.com/p/DfJe803jswD/",
       "reach": 1,
@@ -69,7 +69,7 @@
     "2026-11-01-feed": {
       "mediaId": "18093160190203579",
       "kind": "feed",
-      "fetchedAt": "2026-11-02T05:51:18.802Z",
+      "fetchedAt": "2026-11-02T16:14:10.260Z",
       "publishedAt": "2026-11-01T06:11:42.538Z",
       "permalink": "https://www.instagram.com/p/DfMDvtulDEu/",
       "reach": 2,
@@ -91,7 +91,7 @@
     "2026-11-02-feed": {
       "mediaId": "18096349622681509",
       "kind": "feed",
-      "fetchedAt": "2026-11-02T06:12:25.173Z",
+      "fetchedAt": "2026-11-02T16:14:10.460Z",
       "publishedAt": "2026-11-02T06:11:36.291Z",
       "permalink": "https://www.instagram.com/p/DfOoiFMld00/",
       "reach": 0,
@@ -103,7 +103,7 @@
     "2026-11-02-story": {
       "mediaId": "18119353604040450",
       "kind": "story",
-      "fetchedAt": "2026-11-02T06:12:25.378Z",
+      "fetchedAt": "2026-11-02T16:14:10.932Z",
       "publishedAt": "2026-11-02T06:11:52.986Z",
       "permalink": null,
       "reach": 0,
@@ -113,10 +113,10 @@
     "2026-11-02-reel": {
       "mediaId": "18057379373801175",
       "kind": "reel",
-      "fetchedAt": "2026-11-02T06:12:25.619Z",
+      "fetchedAt": "2026-11-02T16:14:11.264Z",
       "publishedAt": "2026-11-02T06:12:24.200Z",
       "permalink": "https://www.instagram.com/reel/DfOol_fDAdC/",
-      "reach": 0,
+      "reach": 17,
       "likes": 0,
       "comments": 0,
       "saved": 0,
@@ -124,7 +124,7 @@
     }
   },
   "username": "trafikken.oslo",
-  "updatedAt": "2026-11-02T07:41:11.575Z",
+  "updatedAt": "2026-11-02T16:14:11.264Z",
   "profile": {
     "name": "Trafikken Oslo",
     "bio": 140,
@@ -133,6 +133,6 @@
     "follows": 6,
     "followers": 6,
     "media": 4,
-    "checkedAt": "2026-11-02T07:41:11.574Z"
+    "checkedAt": "2026-11-02T16:14:08.675Z"
   }
 }
