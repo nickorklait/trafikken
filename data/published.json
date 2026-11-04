@@ -101,5 +101,30 @@
       "18126318679863531"
     ],
     "permalink": "https://www.instagram.com/reel/DfRNZPBk_3j/"
+  },
+  "2026-11-04-feed": {
+    "publishedAt": "2026-11-04T06:11:37.660Z",
+    "kind": "feed",
+    "mediaIds": [
+      "18088711808305362"
+    ],
+    "permalink": "https://www.instagram.com/p/DfTyINoEf9U/"
+  },
+  "2026-11-04-story": {
+    "publishedAt": "2026-11-04T06:11:55.104Z",
+    "kind": "story",
+    "mediaIds": [
+      "17912852928474387",
+      "18197127289402792"
+    ],
+    "permalink": null
+  },
+  "2026-11-04-reel": {
+    "publishedAt": "2026-11-04T06:12:44.132Z",
+    "kind": "reel",
+    "mediaIds": [
+      "18228232384336074"
+    ],
+    "permalink": "https://www.instagram.com/reel/DfTyMIMkf28/"
   }
 }
