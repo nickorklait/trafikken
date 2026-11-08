@@ -42,14 +42,14 @@
     },
     {
       "date": "2026-11-08",
-      "count": 9
+      "count": 10
     }
   ],
   "media": {
     "2026-10-30-feed": {
       "mediaId": "18199361410384617",
       "kind": "feed",
-      "fetchedAt": "2026-11-08T05:51:22.411Z",
+      "fetchedAt": "2026-11-08T13:36:52.942Z",
       "publishedAt": "2026-10-30T06:11:54.213Z",
       "permalink": "https://www.instagram.com/p/DfG6LGBm4fQ/",
       "reach": 3,
@@ -71,7 +71,7 @@
     "2026-10-31-feed": {
       "mediaId": "18131440960701153",
       "kind": "feed",
-      "fetchedAt": "2026-11-08T05:51:22.692Z",
+      "fetchedAt": "2026-11-08T13:36:53.213Z",
       "publishedAt": "2026-10-31T06:11:42.928Z",
       "permalink": "https://www.instagram.com/p/DfJe803jswD/",
       "reach": 2,
@@ -93,7 +93,7 @@
     "2026-11-01-feed": {
       "mediaId": "18093160190203579",
       "kind": "feed",
-      "fetchedAt": "2026-11-08T05:51:23.006Z",
+      "fetchedAt": "2026-11-08T13:36:53.704Z",
       "publishedAt": "2026-11-01T06:11:42.538Z",
       "permalink": "https://www.instagram.com/p/DfMDvtulDEu/",
       "reach": 3,
@@ -115,7 +115,7 @@
     "2026-11-02-feed": {
       "mediaId": "18096349622681509",
       "kind": "feed",
-      "fetchedAt": "2026-11-08T05:51:23.290Z",
+      "fetchedAt": "2026-11-08T13:36:53.970Z",
       "publishedAt": "2026-11-02T06:11:36.291Z",
       "permalink": "https://www.instagram.com/p/DfOoiFMld00/",
       "reach": 1,
@@ -137,7 +137,7 @@
     "2026-11-02-reel": {
       "mediaId": "18057379373801175",
       "kind": "reel",
-      "fetchedAt": "2026-11-08T05:51:23.561Z",
+      "fetchedAt": "2026-11-08T13:36:54.222Z",
       "publishedAt": "2026-11-02T06:12:24.200Z",
       "permalink": "https://www.instagram.com/reel/DfOol_fDAdC/",
       "reach": 22,
@@ -149,7 +149,7 @@
     "2026-11-03-feed": {
       "mediaId": "17915613039550301",
       "kind": "feed",
-      "fetchedAt": "2026-11-08T05:51:23.888Z",
+      "fetchedAt": "2026-11-08T13:36:54.357Z",
       "publishedAt": "2026-11-03T06:11:37.719Z",
       "permalink": "https://www.instagram.com/p/DfRNVLXjkyj/",
       "reach": 1,
@@ -171,7 +171,7 @@
     "2026-11-03-reel": {
       "mediaId": "18126318679863531",
       "kind": "reel",
-      "fetchedAt": "2026-11-08T05:51:24.097Z",
+      "fetchedAt": "2026-11-08T13:36:54.628Z",
       "publishedAt": "2026-11-03T06:12:40.998Z",
       "permalink": "https://www.instagram.com/reel/DfRNZPBk_3j/",
       "reach": 3,
@@ -183,7 +183,7 @@
     "2026-11-04-feed": {
       "mediaId": "18088711808305362",
       "kind": "feed",
-      "fetchedAt": "2026-11-08T05:51:24.333Z",
+      "fetchedAt": "2026-11-08T13:36:54.893Z",
       "publishedAt": "2026-11-04T06:11:37.660Z",
       "permalink": "https://www.instagram.com/p/DfTyINoEf9U/",
       "reach": 2,
@@ -205,7 +205,7 @@
     "2026-11-04-reel": {
       "mediaId": "18228232384336074",
       "kind": "reel",
-      "fetchedAt": "2026-11-08T05:51:24.611Z",
+      "fetchedAt": "2026-11-08T13:36:55.076Z",
       "publishedAt": "2026-11-04T06:12:44.132Z",
       "permalink": "https://www.instagram.com/reel/DfTyMIMkf28/",
       "reach": 5,
@@ -217,7 +217,7 @@
     "2026-11-05-feed": {
       "mediaId": "18016964393972881",
       "kind": "feed",
-      "fetchedAt": "2026-11-08T05:51:26.401Z",
+      "fetchedAt": "2026-11-08T13:36:55.396Z",
       "publishedAt": "2026-11-05T06:11:43.223Z",
       "permalink": "https://www.instagram.com/p/DfWW7WdEd8j/",
       "reach": 0,
@@ -239,7 +239,7 @@
     "2026-11-05-reel": {
       "mediaId": "17954493219301102",
       "kind": "reel",
-      "fetchedAt": "2026-11-08T05:51:26.623Z",
+      "fetchedAt": "2026-11-08T13:36:55.642Z",
       "publishedAt": "2026-11-05T06:12:47.049Z",
       "permalink": "https://www.instagram.com/reel/DfWW_cdkaCp/",
       "reach": 72,
@@ -251,7 +251,7 @@
     "2026-11-06-feed": {
       "mediaId": "17963254593253486",
       "kind": "feed",
-      "fetchedAt": "2026-11-08T05:51:26.921Z",
+      "fetchedAt": "2026-11-08T13:36:55.856Z",
       "publishedAt": "2026-11-06T06:11:54.343Z",
       "permalink": "https://www.instagram.com/p/DfY7vrBGwGO/",
       "reach": 1,
@@ -273,7 +273,7 @@
     "2026-11-06-reel": {
       "mediaId": "17997170487022603",
       "kind": "reel",
-      "fetchedAt": "2026-11-08T05:51:27.146Z",
+      "fetchedAt": "2026-11-08T13:36:56.150Z",
       "publishedAt": "2026-11-06T06:13:08.089Z",
       "permalink": "https://www.instagram.com/reel/DfY706nmSDi/",
       "reach": 4,
@@ -285,7 +285,7 @@
     "2026-11-07-feed": {
       "mediaId": "18123904655473904",
       "kind": "feed",
-      "fetchedAt": "2026-11-08T05:51:27.463Z",
+      "fetchedAt": "2026-11-08T13:36:56.332Z",
       "publishedAt": "2026-11-07T06:11:41.027Z",
       "permalink": "https://www.instagram.com/p/DfbghISlmgc/",
       "reach": 0,
@@ -307,7 +307,7 @@
     "2026-11-07-reel": {
       "mediaId": "17917438803540543",
       "kind": "reel",
-      "fetchedAt": "2026-11-08T05:51:28.163Z",
+      "fetchedAt": "2026-11-08T13:36:56.470Z",
       "publishedAt": "2026-11-07T06:13:04.866Z",
       "permalink": "https://www.instagram.com/reel/Dfbgml8Hafn/",
       "reach": 29,
@@ -319,7 +319,7 @@
     "2026-11-08-feed": {
       "mediaId": "18100299221106761",
       "kind": "feed",
-      "fetchedAt": "2026-11-08T06:13:09.400Z",
+      "fetchedAt": "2026-11-08T13:36:56.792Z",
       "publishedAt": "2026-11-08T06:11:42.384Z",
       "permalink": "https://www.instagram.com/p/DfeFUNTHHlV/",
       "reach": 0,
@@ -331,7 +331,7 @@
     "2026-11-08-story": {
       "mediaId": "18039696248846437",
       "kind": "story",
-      "fetchedAt": "2026-11-08T06:13:09.644Z",
+      "fetchedAt": "2026-11-08T13:36:57.123Z",
       "publishedAt": "2026-11-08T06:12:05.062Z",
       "permalink": null,
       "reach": 0,
@@ -341,10 +341,10 @@
     "2026-11-08-reel": {
       "mediaId": "18212242648317712",
       "kind": "reel",
-      "fetchedAt": "2026-11-08T06:13:09.904Z",
+      "fetchedAt": "2026-11-08T13:36:57.385Z",
       "publishedAt": "2026-11-08T06:13:08.363Z",
       "permalink": "https://www.instagram.com/reel/DfeFZu0D-uh/",
-      "reach": 0,
+      "reach": 13,
       "likes": 0,
       "comments": 0,
       "saved": 0,
@@ -352,15 +352,15 @@
     }
   },
   "username": "trafikken.oslo",
-  "updatedAt": "2026-11-08T07:41:14.964Z",
+  "updatedAt": "2026-11-08T13:36:57.385Z",
   "profile": {
     "name": "Trafikken Oslo",
     "bio": 140,
     "picture": true,
     "website": false,
     "follows": 6,
-    "followers": 9,
+    "followers": 10,
     "media": 10,
-    "checkedAt": "2026-11-08T07:41:14.964Z"
+    "checkedAt": "2026-11-08T13:36:52.592Z"
   }
 }
