@@ -391,10 +391,44 @@
       "comments": 0,
       "saved": 0,
       "shares": 0
+    },
+    "2026-11-10-feed": {
+      "mediaId": "18137253877675536",
+      "kind": "feed",
+      "fetchedAt": "2026-11-10T06:13:05.219Z",
+      "publishedAt": "2026-11-10T06:11:40.317Z",
+      "permalink": "https://www.instagram.com/p/DfjO5fwDnne/",
+      "reach": 0,
+      "likes": 0,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0
+    },
+    "2026-11-10-story": {
+      "mediaId": "18021835838734902",
+      "kind": "story",
+      "fetchedAt": "2026-11-10T06:13:05.429Z",
+      "publishedAt": "2026-11-10T06:11:55.451Z",
+      "permalink": null,
+      "reach": 0,
+      "replies": 0,
+      "shares": 0
+    },
+    "2026-11-10-reel": {
+      "mediaId": "18038417570894217",
+      "kind": "reel",
+      "fetchedAt": "2026-11-10T06:13:05.653Z",
+      "publishedAt": "2026-11-10T06:13:04.006Z",
+      "permalink": "https://www.instagram.com/reel/DfjO_f0Cexu/",
+      "reach": 0,
+      "likes": 0,
+      "comments": 0,
+      "saved": 0,
+      "shares": 0
     }
   },
   "username": "trafikken.oslo",
-  "updatedAt": "2026-11-10T05:51:32.992Z",
+  "updatedAt": "2026-11-10T06:13:05.653Z",
   "profile": {
     "name": "Trafikken Oslo",
     "bio": 140,
@@ -402,7 +436,7 @@
     "website": false,
     "follows": 6,
     "followers": 10,
-    "media": 11,
-    "checkedAt": "2026-11-10T05:51:26.216Z"
+    "media": 12,
+    "checkedAt": "2026-11-10T06:13:04.678Z"
   }
 }
