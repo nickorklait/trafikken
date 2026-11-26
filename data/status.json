@@ -1,14 +1,12 @@
 {
   "generate": {
-    "at": "2026-11-25T05:51:22.401Z",
-    "date": "2026-11-25",
-    "total": 476718,
+    "at": "2026-11-26T05:51:31.722Z",
+    "date": "2026-11-26",
+    "total": 539868,
     "diff": 0,
     "passed": 2,
     "errors": [],
-    "warnings": [
-      "ikke fullt målt i går, utelatt: Ring 3 Smestad"
-    ]
+    "warnings": []
   },
   "publish": {
     "at": "2026-11-25T06:12:50.544Z",
